@@ -22,7 +22,7 @@ e para checar se um projeto existe, verificando seu id.
 ## Para testar o projeto
 1. Clone o repositório para uma pasta local:
 ```bash
-git clone git@github.com:redpeds/bootcamp-gostack-desafio01.git
+git clone git@github.com:devthiagotpl/bootcamp-gostack-desafio01.git
 ```
 2. Ainda dentro da pasta execute o comando yarn para instalar as dependências:
 ```bash
