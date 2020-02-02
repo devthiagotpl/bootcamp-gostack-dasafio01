@@ -32,4 +32,4 @@ yarn install
 ```bash
 yarn dev
 ```
-4. Teste a aplicação usando o endereço `http://localhost:3000` e não se esqueça de utilizar as Rotas para criar ou listar projetos.
+4. Teste a aplicação usando o endereço `http://localhost:3001` e não se esqueça de utilizar as Rotas para criar ou listar projetos.
